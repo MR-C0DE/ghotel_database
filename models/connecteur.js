@@ -8,7 +8,7 @@ export class Local {
     
         // Envoyer une requête à la base de données
         let results = await connection.all(
-            'SELECT * FROM test2'
+            'SELECT * FROM test'
         );
     
         // Retourner les résultats

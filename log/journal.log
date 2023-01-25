@@ -26,3 +26,4 @@
 {"type":"Erreur","message":"La demande a echouée","timestamp":"2023-01-23T17:53:37.234Z","param":{"table":"test","method":"POST","type":"INSERT","ip":"::1"}}
 {"type":"Erreur","message":"La premiere demande a echouée","timestamp":"2023-01-23T17:53:41.220Z","param":{"table":"test","method":"GET","type":"ALL","ip":"::1"}}
 {"type":"Erreur","message":"La demande a echouée","timestamp":"2023-01-23T21:45:57.505Z","param":{"table":"test","method":"POST","type":"INSERT","ip":"::1"}}
+{"type":"Erreur","message":"La premiere demande a echouée","timestamp":"2023-01-25T14:22:09.766Z","param":{"table":"test","method":"GET","type":"ALL","ip":"::1"}}
